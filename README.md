@@ -13,6 +13,13 @@ In our Github example, the MCP Server for Github contains tools like get_repos()
         <sub><i>MCP Server for Github</i></sub>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/full_journey.png" width="420" alt="full journey"/>
+        <br/>
+        <sub><i>Step by Step Flow</i></sub>
+      </td>
+    </tr>
   </table>
 </div>
 
